@@ -235,6 +235,8 @@
         "cardImportSubDesc": "ノードを対応するクライアントに迅速にインポートします",
         "passwordNotSame": "2つのパスワードが一致しません",
         "ticketCancel": "キャンセル",
-        "ticketPlaceholder": "チケットに返信する内容を入力..."
+        "ticketPlaceholder": "チケットに返信する内容を入力...",
+        "trafficUsed":"使用済み",
+        "trafficTotal":"合計"
     }
 }

@@ -235,6 +235,8 @@
         "cardImportSubDesc": "Quickly import nodes for use in the corresponding client",
         "passwordNotSame": "The two passwords do not match",
         "ticketCancel": "Cancel",
-        "ticketPlaceholder": "Enter content to reply to the ticket..."
+        "ticketPlaceholder": "Enter content to reply to the ticket...",
+        "trafficUsed":"Used",
+        "trafficTotal":"Total"
     }
 }

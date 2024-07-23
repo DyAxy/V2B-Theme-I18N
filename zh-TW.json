@@ -235,6 +235,8 @@
         "cardImportSubDesc": "快速將節點導入對應客戶端進行使用",
         "passwordNotSame": "兩次密碼不一致",
         "ticketCancel": "取消",
-        "ticketPlaceholder": "輸入內容回覆工單..."
+        "ticketPlaceholder": "輸入內容回覆工單...",
+        "trafficUsed":"已用",
+        "trafficTotal":"總計"
     }
 }

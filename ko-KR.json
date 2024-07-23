@@ -235,6 +235,8 @@
         "cardImportSubDesc": "노드를 해당 클라이언트에 빠르게 가져옵니다",
         "passwordNotSame": "두 비밀번호가 일치하지 않습니다",
         "ticketCancel": "취소",
-        "ticketPlaceholder": "티켓에 답변할 내용을 입력..."
+        "ticketPlaceholder": "티켓에 답변할 내용을 입력...",
+        "trafficUsed":"사용한 데이터",
+        "trafficTotal":"총 데이터"
     }
 }

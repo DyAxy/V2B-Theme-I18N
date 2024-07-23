@@ -235,6 +235,8 @@
         "cardImportSubDesc": "Nhập nhanh các nút vào khách hàng tương ứng để sử dụng",
         "passwordNotSame": "Hai mật khẩu không khớp",
         "ticketCancel": "Hủy",
-        "ticketPlaceholder": "Nhập nội dung để trả lời vé..."
+        "ticketPlaceholder": "Nhập nội dung để trả lời vé...",
+        "trafficUsed":"Dữ Liệu Đã Sử Dụng",
+        "trafficTotal":"Tổng Dữ Liệu"
     }
 }

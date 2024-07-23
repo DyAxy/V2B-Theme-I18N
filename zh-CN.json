@@ -235,6 +235,8 @@
         "ticketMsgDesc": "请选择工单等级",
         "ticketConfirm": "确认",
         "ticketCancel": "取消",
-        "ticketPlaceholder": "输入内容回复工单..."
+        "ticketPlaceholder": "输入内容回复工单...",
+        "trafficUsed":"已用",
+        "trafficTotal":"总计"
     }
 }
