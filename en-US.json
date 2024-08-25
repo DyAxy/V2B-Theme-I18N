@@ -229,14 +229,21 @@
         "ticketNo": "No historical tickets",
         "ticketSubjectDesc": "Enter the ticket subject",
         "ticketLevelDesc": "Select the ticket level",
-        "ticketMsg": "Select the ticket level",
-        "ticketMsgDesc": "Select the ticket level",
+        "ticketMsg": "Content",
+        "ticketMsgDesc": "Please enter the ticket content",
         "ticketConfirm": "Confirm",
         "cardImportSubDesc": "Quickly import nodes for use in the corresponding client",
         "passwordNotSame": "The two passwords do not match",
         "ticketCancel": "Cancel",
         "ticketPlaceholder": "Enter content to reply to the ticket...",
-        "trafficUsed":"Used",
-        "trafficTotal":"Total"
+        "trafficUsed": "Used",
+        "trafficTotal": "Total",
+        "trafficUpload": "Actual Upload",
+        "trafficDownload": "Actual Download",
+        "trafficRate": "Billing Rate",
+        "trafficDesc": "Traffic details are only retained for the last month for query purposes.",
+        "orderStepTitle": "First time purchasing, how should I use it?",
+        "orderStepDesc": "Please refer to the usage documentation we have prepared for you to get started more quickly. <br></br>If you don't know how to use it, you can communicate with us through tickets or customer service. We will resolve the issue as soon as possible.",
+        "orderStepLink": "Click here to view the usage documentation"
     }
 }

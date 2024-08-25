@@ -229,14 +229,21 @@
         "ticketNo": "기록된 티켓 없음",
         "ticketSubjectDesc": "티켓 주제를 입력하세요",
         "ticketLevelDesc": "티켓 우선 순위를 선택하세요",
-        "ticketMsg": "티켓 메시지",
-        "ticketMsgDesc": "티켓 메시지를 입력하세요",
+        "ticketMsg": "내용",
+        "ticketMsgDesc": "티켓 내용을 입력하세요",
         "ticketConfirm": "확인",
         "cardImportSubDesc": "노드를 해당 클라이언트에 빠르게 가져옵니다",
         "passwordNotSame": "두 비밀번호가 일치하지 않습니다",
         "ticketCancel": "취소",
         "ticketPlaceholder": "티켓에 답변할 내용을 입력...",
-        "trafficUsed":"사용한 데이터",
-        "trafficTotal":"총 데이터"
+        "trafficUsed": "사용한 데이터",
+        "trafficTotal": "총 데이터",
+        "trafficUpload": "실제 업로드",
+        "trafficDownload": "실제 다운로드",
+        "trafficRate": "청구 배율",
+        "trafficDesc": "트래픽 세부사항은 최근 한 달간의 데이터만 보관됩니다.",
+        "orderStepTitle": "처음 구매하는데, 어떻게 사용하나요?",
+        "orderStepDesc": "더 빠르게 사용하기 위해 저희가 준비한 사용 문서를 참조하세요. <br></br>사용 방법을 모르시면, 티켓이나 고객 서비스로 저희와 소통해 주세요. 최대한 빨리 문제를 해결해 드리겠습니다.",
+        "orderStepLink": "여기를 클릭하여 사용 문서를 확인하세요"
     }
 }

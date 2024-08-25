@@ -229,14 +229,21 @@
         "ticketNo": "Không có vé lịch sử",
         "ticketSubjectDesc": "Nhập chủ đề vé",
         "ticketLevelDesc": "Chọn mức độ ưu tiên của vé",
-        "ticketMsg": "Chọn mức độ ưu tiên của vé",
-        "ticketMsgDesc": "Chọn mức độ ưu tiên của vé",
+        "ticketMsg": "Nội dung",
+        "ticketMsgDesc": "Vui lòng nhập nội dung phiếu yêu cầu",
         "ticketConfirm": "Xác Nhận",
         "cardImportSubDesc": "Nhập nhanh các nút vào khách hàng tương ứng để sử dụng",
         "passwordNotSame": "Hai mật khẩu không khớp",
         "ticketCancel": "Hủy",
         "ticketPlaceholder": "Nhập nội dung để trả lời vé...",
-        "trafficUsed":"Dữ Liệu Đã Sử Dụng",
-        "trafficTotal":"Tổng Dữ Liệu"
+        "trafficUsed": "Dữ Liệu Đã Sử Dụng",
+        "trafficTotal": "Tổng Dữ Liệu",
+        "trafficUpload": "Tải lên thực tế",
+        "trafficDownload": "Tải xuống thực tế",
+        "trafficRate": "Hệ số tính phí",
+        "trafficDesc": "Chi tiết lưu lượng chỉ giữ lại dữ liệu trong vòng một tháng để tra cứu.",
+        "orderStepTitle": "Lần đầu mua hàng, tôi nên sử dụng như thế nào?",
+        "orderStepDesc": "Vui lòng tham khảo tài liệu sử dụng mà chúng tôi đã chuẩn bị để bạn có thể nhanh chóng làm quen. <br></br>Nếu bạn không biết sử dụng, có thể liên hệ với chúng tôi qua phiếu yêu cầu hoặc dịch vụ khách hàng. Chúng tôi sẽ nhanh chóng giải quyết vấn đề cho bạn.",
+        "orderStepLink": "Nhấp vào đây để xem tài liệu sử dụng"
     }
 }

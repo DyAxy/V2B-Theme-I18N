@@ -229,14 +229,21 @@
         "ticketNo": "沒有歷史工單",
         "ticketSubjectDesc": "請輸入工單主題",
         "ticketLevelDesc": "請選擇工單等級",
-        "ticketMsg": "請選擇工單等級",
-        "ticketMsgDesc": "請選擇工單等級",
+        "ticketMsg": "內容",
+        "ticketMsgDesc": "請輸入工單內容",
         "ticketConfirm": "確認",
         "cardImportSubDesc": "快速將節點導入對應客戶端進行使用",
         "passwordNotSame": "兩次密碼不一致",
         "ticketCancel": "取消",
         "ticketPlaceholder": "輸入內容回覆工單...",
-        "trafficUsed":"已用",
-        "trafficTotal":"總計"
+        "trafficUsed": "已用",
+        "trafficTotal": "總計",
+        "trafficUpload": "實際上傳",
+        "trafficDownload": "實際下載",
+        "trafficRate": "計費倍率",
+        "trafficDesc": "流量明細僅保留近一個月數據以供查詢。",
+        "orderStepTitle": "第一次購買，我該如何使用？",
+        "orderStepDesc": "請查閱我們為您準備的使用文檔，以便您更快的上手使用。<br></br>如果不會使用，可以通過工單或客服與我們溝通。我們會儘快為您解決問題。",
+        "orderStepLink": "點擊這裡查看使用文檔"
     }
 }

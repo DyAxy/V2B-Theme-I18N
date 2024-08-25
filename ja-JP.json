@@ -229,14 +229,21 @@
         "ticketNo": "履歴チケットはありません",
         "ticketSubjectDesc": "チケットの件名を入力してください",
         "ticketLevelDesc": "チケットの優先度を選択してください",
-        "ticketMsg": "チケットの優先度を選択してください",
-        "ticketMsgDesc": "チケットの優先度を選択してください",
+        "ticketMsg": "内容",
+        "ticketMsgDesc": "チケットの内容を入力してください",
         "ticketConfirm": "確認",
         "cardImportSubDesc": "ノードを対応するクライアントに迅速にインポートします",
         "passwordNotSame": "2つのパスワードが一致しません",
         "ticketCancel": "キャンセル",
         "ticketPlaceholder": "チケットに返信する内容を入力...",
-        "trafficUsed":"使用済み",
-        "trafficTotal":"合計"
+        "trafficUsed": "使用済み",
+        "trafficTotal": "合計",
+        "trafficUpload": "実際のアップロード",
+        "trafficDownload": "実際のダウンロード",
+        "trafficRate": "請求倍率",
+        "trafficDesc": "トラフィックの詳細は、直近1ヶ月のデータのみ保持されます。",
+        "orderStepTitle": "初めての購入、どのように使用すればよいですか？",
+        "orderStepDesc": "より早く使い始めるために、私たちが用意した使用文書を参照してください。<br></br>使い方がわからない場合は、チケットまたはカスタマーサービスを通じてご連絡ください。できるだけ早く問題を解決します。",
+        "orderStepLink": "こちらをクリックして使用文書を確認してください"
     }
 }
